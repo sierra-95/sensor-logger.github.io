@@ -14,6 +14,8 @@ We observed the challenges of manual data collection and saw the opportunity to 
 2. Easy Navigation: The landing page provides a user-friendly interface with easy navigation elements. You can explore different sections, including an "About" section to learn more about the project's background.
 3. Interactive Visuals: We believe in making data more understandable. As you navigate through the page, you'll find interactive visuals and images that showcase our project's potential.
 4. Project Story: We've added a personal touch to the project with a story that inspired it. This isn't just another project; it's a journey that began with a real-world problem and evolved into a high-tech solution.
+
+
 **Getting Started:**
 To access our full platform, click on the "View Sensor Dashboard" button in the header. This will take you to the complete Sensor Logger application where you can explore and interact with sensor data in real-time.
 
