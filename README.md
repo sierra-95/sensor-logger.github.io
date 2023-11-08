@@ -17,7 +17,7 @@ We observed the challenges of manual data collection and saw the opportunity to 
 
 
 **Getting Started:**
-To access our full platform, click on the "View Sensor Dashboard" button in the header. This will take you to the complete Sensor Logger application where you can explore and interact with sensor data in real-time.
+To access our full platform, click on https://sierra-95.github.io/ or the "View Sensor Dashboard" button in the header. This will take you to the complete Sensor Logger application where you can explore and interact with sensor data in real-time.
 
 **Contact Us:**
 Feel free to get in touch through our GitHub profile or via email. We welcome your feedback and inquiries.
